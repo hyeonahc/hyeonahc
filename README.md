@@ -25,7 +25,7 @@
 
 <h2>💻 I’m currently working on…</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyeonahc&repo=job-search)](https://github.com/hyeonahc/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyeonahc&repo=job-search)](https://github.com/hyeonahc/job-search)
 
 <h2>📝 My Latest Blog Post</h2>
 <ul>
