@@ -7,7 +7,6 @@
   <li>Blog (Korean): <a href="https://hyeonah-blog.tistory.com/">https://hyeonah-blog.tistory.com/</a></li>
   <li>Email: <a href="mailto:hyeonah.hello@gmail.com">hyeonah.hello@gmail.com</a></li>
 </ul>
-<br>
 
 <h2>🛠 Skills</h2>
 <h3>Frontend</h3>
@@ -20,19 +19,13 @@
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Mac OS](https://img.shields.io/badge/Mac%20Lover%20😁-000000?style=flat-square&logo=apple&logoColor=F0F0F0)
 
-<br>
-
 <h2>🌱 I’m currently learning…</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 
-<br>
-
 <h2>💻 I’m currently working on…</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyeonahc&repo=job-search)](https://github.com/hyeonahc/github-readme-stats)
-
-<br>
 
 <h2>📝 My Latest Blog Post</h2>
 <ul>
