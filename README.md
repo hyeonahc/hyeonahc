@@ -7,10 +7,6 @@
 <a href="mailto:hyeonah.hello@gmail.com"><img src="https://img.shields.io/badge/Email-d93025?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 <a href="https://hyeonahcho.ca/"><img src="https://img.shields.io/badge/Email-f99746?style=flat-square&logo=SmugMug&logoColor=white&link=https://hyeonahcho.ca/"/></a>
 
-<p>Visit my blog (Written in Korean 🇰🇷): <a href="https://hyeonah-blog.tistory.com/"> https://hyeonah-blog.tistory.com/</a></p>
-<p>Visit my website: <a href="https://hyeonahcho.ca/">https://hyeonahcho.ca/</a></p>
-<p>Contact me: <a href="mailto:hyeonah.hello@gmail.com"> hyeonah.hello@gmail.com</a></p>
-
 <h2>🛠 Skills</h2>
 <h3>Frontend</h3> 
 <ul>
