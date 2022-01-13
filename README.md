@@ -10,6 +10,7 @@
 <h3>Frontend</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <h3>Collaboration & Tools</h3>
@@ -26,4 +27,4 @@
 
 <h2>📝 My Latest Blog Post</h2>
 
-<img src="https://user-images.githubusercontent.com/83247825/149311172-0e056197-a402-490f-b1e7-5aab2e61c20a.png" alt="blog-stats-1" width="400"/>
+<a src="https://hyeonah-blog.tistory.com/3" target="_blank"><img src="https://user-images.githubusercontent.com/83247825/149311172-0e056197-a402-490f-b1e7-5aab2e61c20a.png" alt="blog-stats-1" width="400"/></a>
