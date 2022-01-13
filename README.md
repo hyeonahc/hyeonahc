@@ -2,6 +2,11 @@
 
 <h2>👩🏻‍💻 About Me</h2> 
 <p>I’m a future front-end developer who is passionate about bringing interactive & functional web application to people’s life.</p>
+
+<a href="https://hyeonah-blog.tistory.com/"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Blogger&logoColor=white&link=https://hyeonah-blog.tistory.com/"/></a>&nbsp
+<a href="mailto:hyeonah.hello@gmail.com"><img src="https://img.shields.io/badge/Email-d93025?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>&nbsp
+<a href="https://hyeonahcho.ca/"><img src="https://img.shields.io/badge/Email-f99746?style=flat-square&logo=SmugMug&logoColor=white&link=https://hyeonahcho.ca/"/></a>
+
 <p>Visit my blog (Written in Korean 🇰🇷): <a href="https://hyeonah-blog.tistory.com/"> https://hyeonah-blog.tistory.com/</a></p>
 <p>Visit my website: <a href="https://hyeonahcho.ca/">https://hyeonahcho.ca/</a></p>
 <p>Contact me: <a href="mailto:hyeonah.hello@gmail.com"> hyeonah.hello@gmail.com</a></p>
