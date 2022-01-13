@@ -3,9 +3,8 @@
 <h2>👩🏻‍💻 About Me</h2> 
 <p>I’m a future front-end developer who is passionate about bringing interactive & functional web application to people’s life.</p>
 <ul>
-  <li>Visit My Website: <a href="https://hyeonahcho.ca/">https://hyeonahcho.ca/</a></li>
+  <li>My recent work on portofolio: <a href="https://hyeonahcho.ca/">https://hyeonahcho.ca/</a></li>
   <li>Blog (Korean): <a href="https://hyeonah-blog.tistory.com/">https://hyeonah-blog.tistory.com/</a></li>
-  <li>Email: <a href="mailto:hyeonah.hello@gmail.com">hyeonah.hello@gmail.com</a></li>
 </ul>
 
 <h2>🛠 Skills</h2>
