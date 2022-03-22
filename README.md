@@ -3,8 +3,8 @@
 <h2>👩🏻‍💻 About Me</h2> 
 <p>I’m a future front-end developer who is passionate about bringing interactive & functional web application to people’s life.</p>
 <ul>
-  <li>My recent work on portofolio: <a href="https://hyeonahcho.ca/">https://hyeonahcho.ca/</a></li>
-  <li>Blog (Korean): <a href="https://hyeonah-blog.tistory.com/">https://hyeonah-blog.tistory.com/</a></li>
+  <!-- <li>My recent work on portofolio: <a href="https://hyeonahcho.ca/">https://hyeonahcho.ca/</a></li> -->
+  <li>Blog (Korean): <a href="https://maplecoding.tistory.com/">https://maplecoding.tistory.com/</a></li>
 </ul>
 
 <h2>🛠 Skills</h2>
@@ -28,11 +28,12 @@
 
 <h2>💻 I’m currently working on…</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyeonahc&repo=job-search-front)](https://github.com/hyeonahc/job-search-front)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rerun1129&repo=photo-gallery)](https://github.com/rerun1129/photo-gallery)
 
 <h2>📝 My Latest Blog Post</h2>
 <ul>
-  <li><a href="https://hyeonah-blog.tistory.com/3" target="_blank">[리액트] 리액트란 무엇인가? (MVC패턴, 리액트의 장점, 리액트로 만든 웹사이트 소개)</a></li>
-  <li><a href="https://hyeonah-blog.tistory.com/7?category=1064167" target="_blank">[리액트] JSX 문법 9가지 완벽 정리</a></li>
-  <li><a href="https://hyeonah-blog.tistory.com/27?category=1064168" target="_blank">[파이썬] 딕셔너리 (선언, 출력, 수정, 추가, 관련 함수, in 메소드)</a></li>
+  <li><a href="https://maplecoding.tistory.com/1?category=1263016" target="_blank">[리액트] 리액트란 무엇인가? (MVC패턴, 리액트의 장점, 리액트로 만든 웹사이트 소개)</a></li>
+  <li><a href="https://maplecoding.tistory.com/2?category=1263016" target="_blank">[리액트] Virtual DOM이란? (브라우저 동작 원리)</a></li>
+  <li><a href="https://maplecoding.tistory.com/24?category=1263015" target="_blank">[자바스크립트] 배열 정렬하기 sort(), 오름차순, 내림차순 정리법</a></li>
+  <li><a href="https://maplecoding.tistory.com/19?category=1263017" target="_blank">[파이썬] 반복문 for문 (range 함수, continue문, break문)</a></li>
 </ul>
