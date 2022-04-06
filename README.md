@@ -26,14 +26,15 @@
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 
-<h2>💻 I’m currently working on…</h2>
+<!-- <h2>💻 I’m currently working on…</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rerun1129&repo=photo-gallery)](https://github.com/rerun1129/photo-gallery)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rerun1129&repo=photo-gallery)](https://github.com/rerun1129/photo-gallery) -->
 
-<h2>📝 My Latest Blog Post</h2>
+<h2>📝 My Popular Blog Post</h2>
 <ul>
   <li><a href="https://maplecoding.tistory.com/1?category=1263016" target="_blank">[리액트] 리액트란 무엇인가? (MVC패턴, 리액트의 장점, 리액트로 만든 웹사이트 소개)</a></li>
   <li><a href="https://maplecoding.tistory.com/2?category=1263016" target="_blank">[리액트] Virtual DOM이란? (브라우저 동작 원리)</a></li>
   <li><a href="https://maplecoding.tistory.com/24?category=1263015" target="_blank">[자바스크립트] 배열 정렬하기 sort(), 오름차순, 내림차순 정리법</a></li>
   <li><a href="https://maplecoding.tistory.com/19?category=1263017" target="_blank">[파이썬] 반복문 for문 (range 함수, continue문, break문)</a></li>
+  <li><a href="https://maplecoding.tistory.com/91" target="_blank">[깃, 깃플로우] git flow 사용법 완벽정리</a></li>
 </ul>
