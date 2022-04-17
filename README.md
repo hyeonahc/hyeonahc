@@ -32,9 +32,9 @@ I’m a future front-end developer who is passionate about bringing interactive 
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) -->
 
-<!-- ## 💻 I’m currently working on…
+## ✨ Toy Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rerun1129&repo=photo-gallery)](https://github.com/rerun1129/photo-gallery) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyeonahc&repo=job-search-front)](https://github.com/hyeonahc/job-search-front)
 
 ## 📝 My Popular Blog Post
 
