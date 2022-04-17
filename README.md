@@ -36,7 +36,7 @@ I’m a future front-end developer who is passionate about bringing interactive 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyeonahc&repo=job-search-front)](https://github.com/hyeonahc/job-search-front)
 
-## 📝 My Popular Blog Post
+## 📝 My Popular Blog Posts
 
 - [[리액트] 리액트란 무엇인가? (MVC패턴, 리액트의 장점, 리액트로 만든 웹사이트 소개)](https://maplecoding.tistory.com/1?category=1263016)
 - [[리액트] Virtual DOM이란? (브라우저 동작 원리)](https://maplecoding.tistory.com/2?category=1263016)
