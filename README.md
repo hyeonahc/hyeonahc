@@ -40,6 +40,8 @@ I’m a future front-end developer who is passionate about bringing interactive 
 
 - [[리액트] 리액트란 무엇인가? (MVC패턴, 리액트의 장점, 리액트로 만든 웹사이트 소개)](https://maplecoding.tistory.com/1?category=1263016)
 - [[리액트] Virtual DOM이란? (브라우저 동작 원리)](https://maplecoding.tistory.com/2?category=1263016)
+- [[리액트] 리덕스 정리 (전역상태관리란?)
+  ](https://maplecoding.tistory.com/135)
 - [[자바스크립트] 배열 정렬하기 sort(), 오름차순, 내림차순 정리법](https://maplecoding.tistory.com/24?category=1263015)
 - [[파이썬] 반복문 for문 (range 함수, continue문, break문)](https://maplecoding.tistory.com/19?category=1263017)
 - [[깃, 깃플로우] git flow 사용법 완벽정리](https://maplecoding.tistory.com/91)
