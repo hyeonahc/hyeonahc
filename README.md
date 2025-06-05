@@ -2,27 +2,82 @@
 
 ## 👩🏻‍💻 About Me
 
-Hi there! I'm Hyeonah, currently a Hardware Integration Engineer at ChargeLab. In my role, I ensure that electric vehicle chargers seamlessly integrate with the software. Now, I'm thrilled to dive into the world of software development and take on full-stack projects.<br/><br/>This GitHub highlights my journey as I transition into software development. Here, you'll find a mix of personal projects and collaborative efforts that demonstrate my growth and skills in this new field. <br/><br/>Visit <a href="https://hyeonah-portfolio.vercel.app/">my portfolio website</a> to explore my journey : )
+### 🔌 <strong>Hardware & Software Integration Engineer @ ChargeLab</strong><br/>
+
+I ensure EV chargers work seamlessly with ChargeLab’s platform through QA testing, performance tuning, and issue resolution. I’ve developed automation tools that reduced testing time from weeks to days, accelerating charger verification and deployment across North America.
+
+### 💻 <strong>Full-Stack Developer</strong><br/>
+
+I build secure and scalable web apps using:<br/>
+• Frontend: React.js, Next.js, TypeScript ⚛️<br/>
+• Backend: Node.js, Express.js 🔙<br/>
+My experience spans from frontend development to system-level automation, enabling me to solve problems with both speed and precision.
+
+### 🤝 <strong>Soft Skills That Drive Results</strong><br/>
+
+• Effective cross-functional collaboration 🧩<br/>
+• Analytical thinking and clear documentation 📝<br/>
+• Adaptive and growth mindset 🌱<br/>
+• Problem-solving with a proactive mindset 💡
+
+### 🚀 <strong>Driving Innovation</strong><br/>
+
+I’m driven by curiosity and a desire to build software that solves real business problems. Whether optimizing EV charger performance or developing web apps, I turn complex needs into impactful, user-focused solutions that support innovation and business growth.
 
 ## 🔥 Recent Projects
 
-|                                                                                                      Go Together Service (Next.js)                                                                                                       |                                                                                                           Go Together Admin (Next.js)                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Go Together is a travel service platform that provides convenient vacation package bookings<br/><br/><div><a href="https://github.com/gotogether-s/gotogether-s"><img src="./assets/gotogether.png" alt="gotogether service" ></a></div> | Go Together Admin is designed for adding vacation packages to the GoTogether service site<br/><br/><div><a href="https://github.com/gotogether-s/gotogether-s-admin"><img src="./assets/gotogether-admin.png" alt="gotogether admin" ></a></div> |
+<table>
+  <tr>
+    <td style="width: 50%; height: 340px; vertical-align: top; text-align: center;">
+        <strong>Finance Tracker (React.js, Express.js)</strong><br/>
+        <p style="margin: 6px 0;">Finance Tracker is a full-stack app that helps users manage income and expenses, view trends, and visualize data using charts and filters</p>
+        <a href="https://github.com/hyeonahc/finance-tracker">
+          <img src="./assets/finance-tracker.png" alt="finance tracker" style="height: 300px; width: auto;" />
+        </a>
+    </td>
+    <td style="width: 50%; height: 340px; vertical-align: top; text-align: center;">
+        <strong>Go Together Service (Next.js)</strong><br/>
+        <p style="margin: 6px 0;">Go Together is a travel service platform that provides convenient vacation package bookings</p>
+        <a href="https://github.com/gotogether-s/gotogether-s">
+          <img src="./assets/gotogether.png" alt="gotogether service" style="height: 300px; width: auto;" />
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; height: 320px; vertical-align: top; text-align: center;">
+      <strong>Go Together Admin (Next.js)</strong><br/>
+      Go Together Admin is designed for adding vacation packages to the GoTogether service site<br/><br/>
+      <a href="https://github.com/gotogether-s/gotogether-s-admin">
+        <img src="./assets/gotogether-admin.png" alt="gotogether admin" style="width: 80%; max-height: 160px;" />
+      </a>
+    </td>
+    <td style="width: 50%; height: 320px; vertical-align: top; text-align: center;">
+      <strong>Portfolio (Next.js)</strong><br/>
+      Visit my portfolio website to explore my recent projects, skills, and journey!<br/><br/>
+      <a href="https://github.com/hyeonahc/portfolio">
+        <img src="./assets/portfolio-2023.png" alt="portfolio 2023" style="width: 80%; max-height: 160px;" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; height: 320px; vertical-align: top; text-align: center;">
+      <strong>Fresh Tomatoes (Vanilla JavaScript)</strong><br/>
+      Fresh Tomatoes is a user-friendly platform with an OMDb API database for seamless movie and TV show discovery<br/><br/>
+      <a href="https://github.com/hyeonahc/fresh-tomatoes">
+        <img src="./assets/fresh-tomatoes.png" alt="fresh tomatoes" style="width: 80%; max-height: 160px;" />
+      </a>
+    </td>
+    <td style="width: 50%; height: 320px; vertical-align: top; text-align: center;">
+      <strong>Tumbler Shop (Vue.js)</strong><br/>
+      Tumbler Shop is an online shopping mall website where you can conveniently order tumblers<br/><br/>
+      <a href="https://github.com/hyeonahc/tumbler-shop">
+        <img src="./assets/tumbler-shop.png" alt="tumbler shop" style="width: 80%; max-height: 160px;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-|                                                                                                 Portfolio (Next.js)                                                                                                  |                                                                                                           Fresh Tomatoes (Vanilla JavaScript)                                                                                                            |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Visit my portfolio website to explore my recent projects, skills, and journey!<br/><br/><div><a href="https://github.com/hyeonahc/portfolio"><img src="./assets/portfolio-2023.png" alt="portfolio 2023" ></a></div> | Fresh Tomatoes is a user-friendly platform with an OMDb API database for seamless movie and TV show discovery<br/><br/><div><a href="https://github.com/hyeonahc/fresh-tomatoes"><img src="./assets/fresh-tomatoes.png" alt="fresh tomatoes" ></a></div> |
-
-|                                                                                                      Tumbler Shop (Vue.js)                                                                                                      |                                                                                                          Recipe World (React.js)                                                                                                          |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Tumbler Shop is an online shopping mall website where you can conveniently order tumblers<br/><br/><div><a href="https://github.com/hyeonahc/tumbler-shop"><img src="./assets/tumbler-shop.png"  alt="tumbler shop" ></a></div> | Recipe World is a recipe search website that utilizes a database obtained from the spoonacular API<br/><br/><div><a href="https://github.com/hyeonahc/recipe-website"><img src="./assets/recipe-world.png" alt="recipe world" ></a></div> |
-
-|                                                                                                         Fast Bank (React.js)                                                                                                         |                                                                                                                 Job Search Board (React.js)                                                                                                                  |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| FastBank is a service app that recommends banking products tailored to the user's age and occupation<br/><br/><div><a href="https://github.com/hyeonahc/fast-bank-FE"><img src="./assets/fast-bank.png" alt="faast bank" ></a></div> | Job Search is a compact API that allows you to filter three options directly from the results page of a Job Board<br/><br/><div><a href="https://github.com/hyeonahc/job-search-front"><img src="./assets/job-search.png" alt="job search board" ></a></div> |
-
-## 💎 Skills
+<!-- ## 💎 Skills
 
 ### Front-end
 
@@ -47,7 +102,7 @@ Hi there! I'm Hyeonah, currently a Hardware Integration Engineer at ChargeLab. I
 ### Back-end
 
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white) -->
 
 <!-- ### Design
 
